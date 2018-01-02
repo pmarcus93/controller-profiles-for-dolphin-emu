@@ -1,10 +1,11 @@
 # Xbox Controller Profiles for Dolphin Emulator
-This repository contains a series of configured profiles for Xbox controllers for Dolphin Emulator.
 
-##How To Use
+This repository contains a series of configured profiles for Xbox controllers for Dolphin Emulator for both Windows and MAC OS.
 
-1. Download the entire repo or just the profile you want.
-2. On Windows, move the downloaded files to DIR:\Users\Your User\Documents\Dolphin Emulator\Config\Profiles. If you are using MacOS or Linux, move to the directory where Dolphin store the configuration files.
+## How To Use
+
+1. Download the correct file for your OS (see the .ini filenames).
+2. On Windows, move the downloaded file to DIR:\Users\Your User\Documents\Dolphin Emulator\Config\Profiles. If you are using MacOS the path is /Users/yourusername/Library/Application Support/Dolphin/Config/Profiles/Wiimote.
 3. Open Dolphin and click on "Controllers".
 4. Select the Wiimote you want to configure, choose "Emulated Wiimote" and then, configure.
 5. In profiles, choose the profile you want. Then, select load. Click on ok.
