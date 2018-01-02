@@ -1,5 +1,6 @@
 # Xbox Controller Profiles for Dolphin Emulator
 
+
 This repository contains a series of configured profiles for Xbox controllers for Dolphin Emulator for both Windows and MAC OS.
 
 ## How To Use
@@ -13,11 +14,11 @@ This repository contains a series of configured profiles for Xbox controllers fo
 Done!
 Enjoy playing your favorite games using your Xbox controller.
 
-##Compatibility
+## Compatibility
 It should work with every original Xbox 360 and Xbox One controllers (wired or wireless). Other x-input controllers should work without problems too.
 
-##Profiles Summary
-###Platformers - Horizontal Wiimote
+## Profiles Summary
+### Platformers - Horizontal Wiimote
 Ideal for platformers such as *New Super Mario Bros* and *Donkey Kong Country Returns*. Both analog and d-pad works simultaneously.
 
 | Button | Function |
