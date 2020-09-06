@@ -18,6 +18,6 @@ Done! Enjoy playing your favorite games using your available controllers!
 
 ## Compatibility
 
-## Xbox
+### Xbox
 It should work with every original Xbox 360 and Xbox One controllers (wired or wireless). 
 Other x-input controllers should work without problems too.
